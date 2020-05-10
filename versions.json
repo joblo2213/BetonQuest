@@ -1,4 +1,4 @@
 [
-  {"version": "latest", "title": "latest", "aliases": []}
-  ,{"version": "v1.11", "title": "v1.11", "aliases": []}
+  {"version": "dev", "title": "dev", "aliases": []}
+  ,{"version": "v1.11", "title": "1.11", "aliases": []}
 ]
